@@ -1,3 +1,5 @@
+// GPA Calculator for NIT Mizoram CSE
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
